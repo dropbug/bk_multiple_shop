@@ -32,27 +32,27 @@
 
 
 ##### 2.1 呼出远程桌面连接
-"远程桌面服务"有两种打开方式
-**命令呼出**
-Win7,Win8,Win10都能用
-   按Windows键+R,呼出运行窗口
+"远程桌面服务"有两种打开方式  
+**命令呼出**  
+Win7,Win8,Win10都能用  
+   按Windows键+R,呼出运行窗口  
    ![win+r](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/win%2Br.jpg)
    
-   运行窗口输入 mstsc ,确定
+   运行窗口输入 mstsc ,确定  
    ![mstsc](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/mstsc.jpg)
-**附件点击打开**
-仅推荐Win7使用.
+**附件点击打开**  
+仅推荐Win7使用.  
 (Win8,Win10的附件不好找,但是搜索很好用,直接搜 远程桌面连接 就出来了)
 
-Win7系统下,点左下角"开始"->"所有程序"->"附件"->鼠标点击"附件",展开菜单
+Win7系统下,点左下角"开始"->"所有程序"->"附件"->鼠标点击"附件",展开菜单  
    ![附件远程桌面](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/%E9%99%84%E4%BB%B6mstsc.png)
 
 #### 2.2 输入地址和账号密码,勾选本地资源
-这里假设 王小明 是天津公司同事,他的跳板机账号是:wangxiaoming 
-界面应该是这个样子的
+这里假设 王小明 是天津公司同事,他的跳板机账号是:wangxiaoming   
+界面应该是这个样子的  
 ![wangxiaoming](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/wangxiaoming.png)
 
-点击"显示选项",展开隐藏菜单.
+点击"显示选项",展开隐藏菜单.  
 ![展开1](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E5%B1%95%E5%BC%801.jpg)
 
 按下图操作
