@@ -49,7 +49,7 @@ Win7系统下,点左下角"开始"->"所有程序"->"附件"->鼠标点击"附�
    ![附件远程桌面](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/%E9%99%84%E4%BB%B6mstsc.png)
 
 #### 2.2 输入地址和账号密码,勾选本地资源
-每个人都有自己的跳板机账号,不能混用.跳板机账号只能用来登录一台跳板机.
+每个人都有自己的跳板机账号,不能混用.账号一般是姓名拼写.
 这里假设 王小明 是天津公司同事,他的跳板机账号是:wangxiaoming   
 界面应该是这个样子的  
 ![wangxiaoming](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/wangxiaoming.png)
