@@ -40,6 +40,7 @@ Win7,Win8,Win10都能用
    
    运行窗口输入 mstsc ,确定  
    ![mstsc](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/mstsc.jpg)
+   
 **附件点击打开**  
 仅推荐Win7使用.  
 (Win8,Win10的附件不好找,但是搜索很好用,直接搜 远程桌面连接 就出来了)
