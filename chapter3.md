@@ -55,9 +55,6 @@ Win7系统下,点左下角"开始"->"所有程序"->"附件"->鼠标点击"附�
 点击"显示选项",展开隐藏菜单.
 ![展开1](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E5%B1%95%E5%BC%801.jpg)
 
-
-![wangxiaoming](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/wangxiaoming.png)
-
 按下图操作
 
 ![驱动器](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/%E8%BF%9C%E7%A8%8B%E5%8B%BE%E9%80%89%E9%A9%B1%E5%8A%A8%E5%99%A8.jpg)
