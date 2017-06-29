@@ -2,11 +2,11 @@
 
 这一章讲具体用法,如何登录店铺.
 
-先看流程图,下面会针对每一个流程做详细解释.
+先看流程图,下面有针对每一个流程的详细解释.
 ![防关联登录流程图](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/%E9%98%B2%E5%85%B3%E8%81%94%E7%99%BB%E5%BD%95%E6%B5%81%E7%A8%8B%E5%9B%BE.jpeg)
 
 
-##### 在内网
+#### 在内网
 
 内网指深圳公司4楼机房的局域网.三台物理服务器和连接ADSL宽带的PC,部署在这里.  
 在深圳公司4楼的网络环境中,就叫"在内网".  
@@ -23,3 +23,18 @@
 天津,深圳各自一台跳板机,是从人员负载方面考虑,与连接人所在的地域无关.  
 天津同事来深圳出差.在深圳,但不在内网时,仍然用天津跳板机.在内网,可以直连业务机.  
 同样,深圳同事去天津出差,仍然用深圳跳板机.
+
+#### 连跳板机
+连接方法非常简单,使用Windows系统自带的远程桌面服务,输入一个地址和账号密码即可.
+
+"远程桌面服务"有两种打开方式
+**1. 命令呼出**
+   按Windows键+R,呼出运行窗口
+   ![win+r](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/win%2Br.jpg)
+   
+   运行窗口输入 mstsc ,确定
+   ![mstsc](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/mstsc.jpg)
+**2. 附件点击打开**
+
+   ![附件远程桌面](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/%E9%99%84%E4%BB%B6mstsc.png)
+
