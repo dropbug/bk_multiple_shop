@@ -47,3 +47,6 @@ Win7,Win8,Win10都能用
 Win7系统下,点左下角"开始"->"所有程序"->"附件"->鼠标点击"附件",展开菜单
    ![附件远程桌面](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/%E9%99%84%E4%BB%B6mstsc.png)
 
+#### 2.2 输入地址和账号密码
+
+#### 2.3 勾选本地资源
