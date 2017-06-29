@@ -68,3 +68,6 @@ Win7系统下,点左下角"开始"->"所有程序"->"附件"->鼠标点击"附�
 ![另存为rdp](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/%E5%8F%A6%E5%AD%98%E4%B8%BArdp.jpg)
 
 
+第一次连接时可能会问"要不要相信什么什么的","要不要保存什么什么的",全部都给勾上,能保存的凭据全保存,下次连接时就不会再跳询问窗口了.
+
+
