@@ -7,6 +7,6 @@
 1. 命令呼出
    运行栏输入 mstsc
    ![mstsc](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/mstsc.jpg)
-   
 2. 附件点击打开
+
    ![附件远程桌面](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/%E9%99%84%E4%BB%B6mstsc.png)
