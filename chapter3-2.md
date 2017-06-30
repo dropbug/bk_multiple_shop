@@ -22,7 +22,7 @@ _Win7,Win8,Win10都能用   _
    
 **附件点击打开 远程桌面连接**  
 _仅推荐Win7使用_  
-(Win8,Win10的附件不好找,但是搜索很好用,直接搜 远程桌面连接 就出来了)
+(Win8,Win10的附件不好找,所以不太推荐这种方式.)
 
 Win7系统下,点左下角"开始"->"所有程序"->"附件"->鼠标点击"附件",展开菜单  
    ![附件远程桌面](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/%E9%99%84%E4%BB%B6mstsc.png)
