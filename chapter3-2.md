@@ -1,14 +1,17 @@
 ## 连跳板机
-使用Windows系统自带的远程桌面服务 
+使用Windows系统自带的远程桌面服务   
 1. 呼出 远程桌面连接
 2. 输入地址和账号密码,勾选本地资源
 
-
-##### 2.1 呼出远程桌面连接
+### 1.呼出远程桌面连接
 "远程桌面服务"有两种打开方式  
-**命令呼出 远程桌面连接**  
-Win7,Win8,Win10都能用  
-   按Windows键+R,呼出运行窗口  
++ 敲命令
++ 附件点击打开
+***
+**敲命令 呼出远程桌面连接**  
+_Win7,Win8,Win10都能用   _
+
+   呼出运行窗口,按Windows键+R  
    ![win+r](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/win%2Br.jpg)
    
    运行窗口输入 mstsc ,确定  
@@ -21,7 +24,7 @@ Win7,Win8,Win10都能用
 Win7系统下,点左下角"开始"->"所有程序"->"附件"->鼠标点击"附件",展开菜单  
    ![附件远程桌面](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/%E9%99%84%E4%BB%B6mstsc.png)
 
-#### 2.2 输入地址和账号密码,勾选本地资源
+### 2 输入地址和账号密码,勾选本地资源
 每个人都有自己的跳板机账号,不能混用.账号一般是姓名拼写.
 这里假设 王小明 是天津公司同事,他的跳板机账号是:wangxiaoming   
 界面应该是这个样子的  
