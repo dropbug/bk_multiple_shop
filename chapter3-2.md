@@ -11,11 +11,15 @@
 **敲命令 呼出远程桌面连接**  
 _Win7,Win8,Win10都能用   _
 
-   呼出运行窗口,按Windows键+R  
-   ![win+r](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/win%2Br.jpg)
+按Windows键+R,呼出运行窗口  
+![win+r](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/win%2Br.jpg)
    
-   运行窗口输入 mstsc ,确定  
-   ![mstsc](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/mstsc.jpg)
+运行窗口 输入 
+```
+mstsc
+```
+确定  
+![mstsc](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/mstsc.jpg)
    
 **附件点击打开 远程桌面连接**  
 仅推荐Win7使用.  
