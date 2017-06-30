@@ -21,11 +21,10 @@ _Win7,Win8,Win10都能用   _
    ***
    
 **附件点击打开 远程桌面连接**  
-_仅推荐Win7使用_  
-(Win8,Win10的附件不好找,所以不太推荐这种方式.)
+_仅推荐Win7使用.Win8,Win10的附件不好找,所以不太推荐这种方式_
 
-Win7系统下,点左下角"开始"->"所有程序"->"附件"->鼠标点击"附件",展开菜单,点击 远程桌面连接  
-   ![附件远程桌面](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/%E9%99%84%E4%BB%B6mstsc.png)
+Win7系统下,点左下角"开始"->"所有程序"->"附件"->鼠标点击"附件" 展开菜单,点击 远程桌面连接  
+![附件远程桌面](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/%E9%99%84%E4%BB%B6mstsc.png)
 
 ### 2 输入地址和账号密码,勾选本地资源
 每个人都有自己的跳板机账号,不能混用.账号一般是姓名拼写.
