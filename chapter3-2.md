@@ -30,7 +30,7 @@ Win7系统下,点左下角"开始"->"所有程序"->"附件"->鼠标点击"附�
 每个人都有自己的跳板机账号,账号一般是姓名拼写.  
 跳板机账号不可混用.  
 这里假设 王小明 是天津公司同事,他的跳板机账号是:wangxiaoming   
-界面应该是这个样子的  
+远程桌面连接的界面应如下:
 ![wangxiaoming](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/wangxiaoming.png)
 
 点击"显示选项",展开隐藏菜单.  
