@@ -58,6 +58,7 @@
 + user2
 
 这些账号任何一个业务机都有(不管普通还是常驻).
-Wish组的同事经常用 wish,wish-kf,user1.
-财务组的同事经常用 user2.
+
+Wish组的同事用 wish,wish-kf,user1.
+财务组的同事用 user2.
 
