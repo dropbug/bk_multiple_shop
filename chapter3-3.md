@@ -24,5 +24,13 @@
     <td>速卖通</td>
     <td>ali1,ali2...ali30</td>
     </tr>
+    <tr>
+    <td>CD</td>
+    <td>cd1,cd2...cd30</td>
+    </tr>
+    <tr>
+    <td>Wish</td>
+    <td>wish1,wish2...wish10</td>
+    </tr>
 </table>
 
