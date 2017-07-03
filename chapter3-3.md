@@ -9,12 +9,12 @@
 目前各小组的常驻业务机账号分配如下:
 <table>
     <tr>
-        <td>小组</td>
-        <td>账号</td>
+    <td>小组</td>
+    <td>账号</td>
     </tr>
     <tr>
-        <td>财务</td>
-        <td>lmcw1,lmcw2...lmcw5</td>
+    <td>财务</td>
+    <td>lmcw1,lmcw2...lmcw5</td>
     </tr>
     <tr>
     <td>亚马逊</td>
@@ -38,4 +38,5 @@
     </tr>
 </table>
 
-密码 
+密码的规则和账号一样,也是一串固定的字符+序号.
+具体的密码请找管理员查询.
