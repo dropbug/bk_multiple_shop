@@ -44,6 +44,18 @@
 具体的密码由于安全原因在这不方便提供,请小组组长找管理员查询.
 ***
 #### 普通业务机账号
-刚
++ wish
++ wish-kf
++ amazon
++ amazon-kf
++ ali
++ ali-kf
++ cd
++ cd-kf
++ ebay
++ ebay-kf
++ user1
++ user2
 
+这些 
 
