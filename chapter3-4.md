@@ -6,6 +6,7 @@
 点右下角小电脑,如果未连接,点连接即可.
 ***
 #### 业务机使用VPN连接
+这种
 ![vpn连接](http://img.qingyunkj.com/gitbook_netlogin/VPN%E6%8B%A8%E5%8F%B7.jpg)
 
 连接成功之后,我们可以访问IP查询网站 [ip138.com](http://ip138.com) 查询当前业务机的外网IP,应当与VPN连接的名称一致.
@@ -14,3 +15,4 @@
 
 ***
 #### 业务机使用ADSL拨号
+
