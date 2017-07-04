@@ -50,5 +50,7 @@ Win7系统下,点左下角"开始"->"所有程序"->"附件"->鼠标点击"附�
 
 ![rdp_file.jpg](http://img.qingyunkj.com/gitbook_netlogin/rdp_file.jpg)
 
+用完
+
 
 
