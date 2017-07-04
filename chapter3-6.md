@@ -9,5 +9,8 @@
 我们开发的自动登录插件没有经过谷歌审核,使用过程中有可能被Chrome自动禁掉.
 ![插件禁用截图](https://images-cdn.shimo.im/iyAbj9NNd6cXLLIy/image.png)
 
-删掉当前插件,用另一种方式再安装一遍插件即可[解决办法](https://shimo.im/doc/BTm2LRiPmIUU1GC2)
+删掉当前插件,用另一种方式再安装一遍插件即可 [解决办法](https://shimo.im/doc/BTm2LRiPmIUU1GC2)
+
+#### Chrome总是提示"扩展插件有风险,建议禁用"
+置之不理
 
