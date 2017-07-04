@@ -1,7 +1,7 @@
 ## 找UKey
 
 大部分店铺通过UKey登录.
-UKey管理员和用户,通过UKey管理系统,管理和查看UKey.
+我们通过UKey管理系统,管理和查看UKey.
 登录[sso.qingyunkj.com](http://sso.qingyunkj.com),跳转到"UKey系统".
 
 点击左侧导航"我的UKey",右侧的列表将显示您拥有的所有UKey.
