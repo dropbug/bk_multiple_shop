@@ -4,6 +4,8 @@
 连到业务机第一件事情是检查网络连接.
 
 点右下角小电脑,呼出网络状态栏.如果未连接,点连接即可.
+
+虚拟机  
 ***
 #### 业务机使用VPN连接
 ![vpn连接](http://img.qingyunkj.com/gitbook_netlogin/VPN%E6%8B%A8%E5%8F%B7.jpg)
