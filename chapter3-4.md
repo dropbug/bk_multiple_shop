@@ -5,11 +5,11 @@
 
 点右下角小电脑,呼出网络状态栏.如果未连接,点连接即可.
 
-业务机的网络有两种
-1. 挂VPN
-2. ADSL宽带
+业务机的网络连接有两种
+1. VPN(连接名是一个外网IP)
+2. ADSL宽带(连接名就叫"宽带连接")
 ***
-#### 业务机使用VPN连接
+#### VPN连接
 ![vpn连接](http://img.qingyunkj.com/gitbook_netlogin/VPN%E6%8B%A8%E5%8F%B7.jpg)
 
 连接成功之后,我们可以访问IP查询网站 [ip138.com](http://ip138.com) 查询当前业务机的外网IP,是否与VPN连接的名称一致.
@@ -17,7 +17,7 @@
 ![vpn-internet](http://img.qingyunkj.com/gitbook_netlogin/vpn_inetnet.jpg)
 
 ***
-#### 业务机使用ADSL拨号
+#### ADSL宽带
 
 ![kuandai](http://img.qingyunkj.com/gitbook_netlogin/kuandai.jpg)
 
