@@ -32,7 +32,7 @@
 #### 常驻业务机列表-内网IP
 <table>
 	<tr><td>内网IP</td><td>vm序号</td></tr>
-		<tr><td>192.168.6.100</td><td>VM100</td></tr>
+	<tr><td>192.168.6.100</td><td>VM100</td></tr>
 	<tr><td>192.168.6.12</td><td>VM12</td></tr>
 	<tr><td>192.168.6.15</td><td>VM15</td></tr>
 	<tr><td>192.168.6.208</td><td>VM208</td></tr>
