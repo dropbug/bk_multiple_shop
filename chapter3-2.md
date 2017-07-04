@@ -45,6 +45,6 @@ Win7系统下,点左下角"开始"->"所有程序"->"附件"->鼠标点击"附�
 登录成功后,可以把这个链接另存为RDP文件,下次直接双击RDP文件,即可快速连接 ^_^
 ![另存为rdp](http://img.qingyunkj.com/gitbook_netlogin/%E5%8F%A6%E5%AD%98%E4%B8%BArdp.jpg)
 
-
+![rdp_file.jpg](http://img.qingyunkj.com/gitbook_netlogin/rdp_file.jpg)
 第一次连接时可能会问"要不要相信,要不要保存什么什么的",全部给勾上,能保存的凭据全保存,下次连接时就不会再跳询问窗口了.
 
