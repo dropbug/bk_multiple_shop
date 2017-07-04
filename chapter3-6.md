@@ -7,5 +7,6 @@
 ***
 #### 为什么插件总被停用?
 我们开发的自动登录插件没有经过谷歌审核,使用过程中有可能被Chrome自动禁掉.
+![插件禁用截图](https://images-cdn.shimo.im/iyAbj9NNd6cXLLIy/image.png)
 [解决办法](https://shimo.im/doc/BTm2LRiPmIUU1GC2)
 
