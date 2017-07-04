@@ -17,4 +17,5 @@
 
 ![kuandai](http://img.qingyunkj.com/gitbook_netlogin/kuandai.jpg)
 
-这种业务机使用的网络和我们自己家里使用的网络一样,每次拨号连接分配的IP地址都会变.
+这种业务机使用的ADSL动态拨号网络,每次拨号分配的IP地址都会变.无需指定VPN.
+目前
