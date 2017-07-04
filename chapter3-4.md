@@ -21,5 +21,5 @@
 
 ![kuandai](http://img.qingyunkj.com/gitbook_netlogin/kuandai.jpg)
 
-这种业务机使用的ADSL动态拨号网络,每次拨号分配的IP地址都会变.无需指定VPN.
+这种业务机使用ADSL动态拨号网络,每次拨号分配的IP地址都会变.无需指定VPN.
 目前只有亚马逊的一部分店铺在使用这种业务机.
