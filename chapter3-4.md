@@ -14,7 +14,7 @@
 
 连接成功之后,我们要访问IP查询网站 [ip138.com](http://ip138.com) 查询当前业务机的外网IP,是否与VPN连接的名称一致.(新业务机,首次连接时必须验证)
 
-网络连接是管理员手动配置的,有可能配置错误.如果有错,请立即联系管理员.
+VPN是管理员手动配置的,有可能配置错误.如果有错,请立即联系管理员.
 ![vpn-internet](http://img.qingyunkj.com/gitbook_netlogin/vpn_inetnet.jpg)
 
 ***
