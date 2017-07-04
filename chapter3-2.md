@@ -5,7 +5,6 @@
 
 跳板机用完后,请注销您的会话.
 
-
 ***
 ### 1-呼出远程桌面连接
 ![远程桌面界面展示](http://img.qingyunkj.com/gitbook_netlogin/yczmlj.jpg)
