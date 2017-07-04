@@ -18,7 +18,7 @@ VPN是管理员手动配置的,有可能配置错误.如果有错,请立即联�
 ![vpn-internet](http://img.qingyunkj.com/gitbook_netlogin/vpn_inetnet.jpg)
 
 ***
-#### ADSL宽带
+#### 拨号
 
 ![kuandai](http://img.qingyunkj.com/gitbook_netlogin/kuandai.jpg)
 
