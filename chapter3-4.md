@@ -6,6 +6,6 @@
 ![vpn连接](http://img.qingyunkj.com/gitbook_netlogin/VPN%E6%8B%A8%E5%8F%B7.jpg)
 
 连接成功之后,我们可以访问IP查询网站 [ip138.com](http://ip138.com) 查询当前业务机的外网IP,应当与VPN连接的名称一致.
-这一步是管理员手动配置的,有可能配置错误.
+这一步是管理员手动配置的,有可能配置错误.如果有错,请立即联系管理员.
 ![vpn-internet](http://img.qingyunkj.com/gitbook_netlogin/vpn_inetnet.jpg)
 
