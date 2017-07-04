@@ -4,6 +4,7 @@
 2. [输入地址和账号密码,勾选本地资源](chapter3-2.md#2-输入地址和账号密码勾选本地资源)
 ***
 ### 1-呼出远程桌面连接
+![远程桌面界面展示](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/yczmlj.jpg)
 
 "远程桌面服务"有两种打开方式  
 + [敲命令](chapter3-2.md#1.1-打开远程桌面-敲命令)
@@ -11,7 +12,7 @@
 
 
 #### 1.1-打开远程桌面-敲命令
-![远程桌面界面展示](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/yczmlj.jpg)
+
 按Windows键+R,呼出运行窗口  
 ![win+r](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/win%2Br.jpg)
    
