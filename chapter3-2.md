@@ -11,8 +11,7 @@
 
 
 #### 1.1-打开远程桌面-敲命令
-_Win7,Win8,Win10都能用_
-
+![远程桌面界面展示](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/yczmlj.jpg)
 按Windows键+R,呼出运行窗口  
 ![win+r](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/win%2Br.jpg)
    
@@ -21,7 +20,7 @@ _Win7,Win8,Win10都能用_
    ***
    
 #### 1.2-打开远程桌面-附件
-_仅推荐Win7使用.Win8,Win10的附件不好找,所以不太推荐这种方式_
+_仅推荐Win7使用.Win8/8.1,Win10的附件不好找,所以不太推荐这种方式_
 
 Win7系统下,点左下角"开始"->"所有程序"->"附件"->鼠标点击"附件" 展开菜单,点击 远程桌面连接  
 ![附件远程桌面](http://lemai.oss-cn-shenzhen.aliyuncs.com/gitbook_netlogin/%E9%99%84%E4%BB%B6mstsc.png)
