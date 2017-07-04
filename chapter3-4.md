@@ -7,7 +7,7 @@
 
 业务机的网络连接有两种
 1. VPN(连接名是一个外网IP)
-2. ADSL宽带(连接名就叫"宽带连接")
+2. 拨号(连接名就叫"宽带连接")
 ***
 #### VPN连接
 ![vpn连接](http://img.qingyunkj.com/gitbook_netlogin/VPN%E6%8B%A8%E5%8F%B7.jpg)
