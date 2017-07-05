@@ -50,6 +50,7 @@
 登录成功后,可以把这个远程桌面连接另存为RDP文件,下次直接双击RDP文件,即可快速连接
 ![另存为rdp](http://img.qingyunkj.com/gitbook_netlogin/%E5%8F%A6%E5%AD%98%E4%B8%BArdp.jpg)
 
+如下
 ![rdp_file.jpg](http://img.qingyunkj.com/gitbook_netlogin/rdp_file.jpg)
 
 
