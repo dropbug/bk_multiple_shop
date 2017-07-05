@@ -17,7 +17,7 @@
    
 运行窗口 输入 `mstsc` 确定  
 ![mstsc](http://img.qingyunkj.com/gitbook_netlogin/mstsc.jpg)
-![远程桌面界面展示](http://img.qingyunkj.com/gitbook_netlogin/yczmlj.jpg)
+
 
 
    ***
@@ -27,6 +27,10 @@
 
 每个人都有自己的跳板机账号,账号一般是中文名姓名的字母拼写.  
 跳板机账号不可混用.  
+
+![远程桌面界面展示](http://img.qingyunkj.com/gitbook_netlogin/yczmlj.jpg)
+
+
 
 点击"显示选项",展开隐藏菜单.  
 ![展开1](http://img.qingyunkj.com/gitbook_netlogin/%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E5%B1%95%E5%BC%801.jpg)
