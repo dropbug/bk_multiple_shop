@@ -12,8 +12,6 @@
 + [敲命令](chapter3-2.md#1.1-打开远程桌面-敲命令)
 
 
-#### 1.1-打开远程桌面-敲命令
-
 按Windows键+R,呼出运行窗口  
 ![win+r](http://img.qingyunkj.com/gitbook_netlogin/win%2Br.jpg)
    
@@ -27,9 +25,8 @@
 
 ### 2-输入地址和账号密码,勾选本地资源
 
-每个人都有自己的跳板机账号,账号一般是姓名拼写.  
+每个人都有自己的跳板机账号,账号一般是中文名姓名的字母拼写.  
 跳板机账号不可混用.  
-
 
 点击"显示选项",展开隐藏菜单.  
 ![展开1](http://img.qingyunkj.com/gitbook_netlogin/%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E5%B1%95%E5%BC%801.jpg)
