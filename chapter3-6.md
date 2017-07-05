@@ -12,4 +12,5 @@
 删掉当前插件,用另一种方式再安装一遍插件即可 [解决办法](https://shimo.im/doc/BTm2LRiPmIUU1GC2)
 
 #### Chrome提示扩展插件有风险建议禁用
+![建议禁止插件](https://images-cdn.shimo.im/iyAbj9NNd6cXLLIy/ban_crx.jpg)
 置之不理,点"取消"即可.
