@@ -24,8 +24,12 @@
     <td>lmcw1,lmcw2...lmcw5</td>
     </tr>
     <tr>
-    <td>亚马逊</td>
+    <td>天津亚马逊</td>
     <td>az1,az2...az30</td>
+    </tr>
+    <tr>
+    <td>深圳亚马逊</td>
+    <td>szaz1,szaz2...szaz15</td>
     </tr>
     <tr>
     <td>速卖通</td>
