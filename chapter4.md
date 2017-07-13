@@ -26,5 +26,6 @@
    从本地复制,可以在本地粘贴.但往远程桌面里,粘贴不出来从本地复制的数据. 
     
    解决办法:  
-   1.重启rdpclip.exe.打开任务管理器,新建任务,输入rdpclip.exe.  
+   1.重启rdpclip.exe.打开任务管理器,文件,新建任务,输入rdpclip.exe.  
+   ![rdpclip.exe](http://img.qingyunkj.com/gitbook_netlogin/rdpclip.jpg)
    2.注销当前远程桌面,勾选剪贴板后重连.
