@@ -74,5 +74,7 @@
 	<tr><td>192.168.6.12</td><td>VM12</td></tr>
 	<tr><td>192.168.6.100</td><td>VM100</td></tr>
 	<tr><td>192.168.6.8</td><td>VM8</td></tr>
+	<tr><td>192.168.6.109</td><td>VM109</td></tr>
+	<tr><td>192.168.6.160</td><td>VM160</td></tr>
 </table>
 
