@@ -33,6 +33,7 @@
 <table>
 	<tr><td>192.168.6.98</td><td>VM98</td></tr>
 	<tr><td>192.168.6.89</td><td>VM89</td></tr>
+	<tr><td>192.168.6.8</td><td>VM8</td></tr>
 	<tr><td>192.168.6.77</td><td>VM77</td></tr>
 	<tr><td>192.168.6.76</td><td>VM76</td></tr>
 	<tr><td>192.168.6.72</td><td>VM72</td></tr>
@@ -51,6 +52,8 @@
 	<tr><td>192.168.8.23</td><td>VM525</td></tr>
 	<tr><td>192.168.8.22</td><td>VM524</td></tr>
 	<tr><td>192.168.8.11</td><td>VM513</td></tr>
+	<tr><td>192.168.8.10</td><td>VM512</td></tr>
+	<tr><td>192.168.8.9</td><td>VM511</td></tr>
 	<tr><td>192.168.8.7</td><td>VM509</td></tr>
 	<tr><td>192.168.8.6</td><td>VM508</td></tr>
 	<tr><td>192.168.6.50</td><td>VM50</td></tr>
@@ -66,15 +69,15 @@
 	<tr><td>192.168.6.238</td><td>VM238</td></tr>
 	<tr><td>192.168.6.227</td><td>VM227</td></tr>
 	<tr><td>192.168.6.226</td><td>VM226</td></tr>
+	<tr><td>192.168.6.221</td><td>VM221</td></tr>
 	<tr><td>192.168.6.21</td><td>VM21</td></tr>
 	<tr><td>192.168.6.209</td><td>VM209</td></tr>
 	<tr><td>192.168.6.208</td><td>VM208</td></tr>
+	<tr><td>192.168.6.160</td><td>VM160</td></tr>
 	<tr><td>192.168.6.16</td><td>VM16</td></tr>
 	<tr><td>192.168.6.15</td><td>VM15</td></tr>
 	<tr><td>192.168.6.12</td><td>VM12</td></tr>
-	<tr><td>192.168.6.100</td><td>VM100</td></tr>
-	<tr><td>192.168.6.8</td><td>VM8</td></tr>
 	<tr><td>192.168.6.109</td><td>VM109</td></tr>
-	<tr><td>192.168.6.160</td><td>VM160</td></tr>
+	<tr><td>192.168.6.100</td><td>VM100</td></tr>
 </table>
 
